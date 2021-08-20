@@ -1,3 +1,2 @@
 # elite
-
-just  trials
+welcome to elite
